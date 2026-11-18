@@ -1,0 +1,1 @@
+(functions-framework, google-generativeai, line-bot-sdk, Flask, gunicorn)
