@@ -1,1 +1,5 @@
-(functions-framework, google-generativeai, line-bot-sdk, Flask, gunicorn)
+functions-framework
+google-generativeai
+line-bot-sdk
+Flask
+gunicorn
